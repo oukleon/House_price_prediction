@@ -1,10 +1,10 @@
 # House-price-prediction
 
 ## Overview
--House price prediction
--1.5k training set with 81 features (www.kaggle.com)
--Dataset includes conditions & location information of the houses with the price.
--The aim of this project produces accurate prediction of the price that helps for buyers to know the house price is overvalued, undervalued or fair.  
+House price prediction  
+1.5k training set with 81 features (www.kaggle.com)  
+Dataset includes conditions & location information of the houses with the price.  
+The aim of this project produces accurate prediction of the price that helps for buyers to know the house price is overvalued, undervalued or fair.  
 ### Data Preprocessing
 Dropped irrelavent features and features with over 90% of one value -> Followed up study showed that without feature selection brought better performance with some regressors. For example, linear regression or linear based regression gave horrible results without feature selections, but another regressors, like gradientboosting or random forest actually improved scores without selection
 
