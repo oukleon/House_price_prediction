@@ -42,3 +42,6 @@ VotingRegressor with RF,LGBM,XGB and GBR
 - Voting Regressor got the best one in a testset.
 
 ![ensemble](https://user-images.githubusercontent.com/54334941/144774053-3f9188d7-61d1-4474-b6ad-7ff90c7cf260.png)
+
+## Future study
+- Apply deep learning to improve the score.
