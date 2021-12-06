@@ -39,7 +39,7 @@ VotingRegressor with RF,LGBM,XGB and GBR
 
 ![gbr](https://user-images.githubusercontent.com/54334941/144774049-c7217e44-7dd4-44fc-9202-3016d5dce324.png)
 
-- Voting Regressor got the best one in a testset.
+- Voting Regressor got the best one in a testset. (score of 0.87)
 
 ![ensemble](https://user-images.githubusercontent.com/54334941/144774053-3f9188d7-61d1-4474-b6ad-7ff90c7cf260.png)
 
